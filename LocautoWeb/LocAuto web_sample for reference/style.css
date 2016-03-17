@@ -1,0 +1,221 @@
+@CHARSET "utf-8";
+
+body{
+margin:0px auto;
+	padding:0px;
+		
+	
+}
+
+/*header*/
+#background{
+background-color:#ED185F;
+height:600px;
+}
+header {
+	background-color:#ffffff;
+	height:75px;
+	
+	box-shadow: 3px 3px 10px black;
+}
+
+#logo {
+	width:70%;
+	padding-left:50px;
+	padding-top:17.5px;
+	padding-bottom:17.5px;
+	float:left;
+}
+
+
+
+/* navigation_bar*/
+
+nav {
+	float:left;
+	/*border:solid 1px;*/
+	height:75px;
+	padding-top:20px;
+	font-weight:300; 
+	font-size:18px;
+	font-family:Roboto;
+	text-decoration:none;
+	
+}
+
+a:link {
+    text-decoration: none;
+	color:#212121;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+	color:#9c1b40;
+	
+}
+
+a:active {
+    text-decoration: underline;
+	
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 1em;
+    
+}
+section{
+height:20px;
+}
+
+.body {
+	background-color:#ED185F;
+	height:580px;
+	
+	
+}
+ .center{
+	margin-left:auto;
+	margin-bottom:;
+	margin-right:auto;
+	margin-top: ;
+    width: 500px;
+	height:400px;
+   
+    padding: 10px;
+
+}
+
+#bottom{
+	
+	width:500px;
+	height:100px;
+	float:left;
+	font-weight:600; 
+	font-size:24px;
+	font-family:Roboto;
+	text-decoration:none;
+	color:#212121;
+	background-color:#ffffff;
+	
+	padding-left:auto;
+	padding-right:auto;
+	
+
+}
+
+#text_area{
+	width:300px;
+	height:80px;
+	float:left;
+	font-weight:600; 
+	font-size:20px;
+	font-family:Roboto;
+	text-decoration:none;
+	color:#212121;
+	background-color:#ffffff;
+	line-height: 90%;
+	padding-left:25px;
+	padding-right:auto;
+	padding-top:20px;
+	
+}
+.button {
+    background-color: #7c4dff; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	width:120px;
+	
+
+	}
+.button1 {
+border-radius: 4px;
+
+
+}
+
+#yes{
+padding-top:43px;
+padding-left:350px;
+
+}
+
+#small{
+color:grey;
+font-weight:300; 
+font-size:16px;
+line-height: 90%;
+}
+
+hr{
+color:grey;
+width:300px;
+float:left;
+}
+#one {
+color:white;
+width:500px;
+
+margin-bottom:20px;
+float:left;
+}
+
+
+footer{
+background-color:#ffffff;
+color:grey;
+font-weight:300; 
+font-size:15px;
+font-family:Roboto;
+padding-left:50px;
+padding-top:10px;
+}
+
+#footer{
+color:grey;
+float:right;
+padding-right:50px;
+letter-spacing:2px;
+word-spacing:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

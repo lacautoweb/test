@@ -1,0 +1,3 @@
+This is just for getting you started, if you get stuck somewhere.
+It's not complete now it's your job to make this website responsive and there are some unwanted codes which when deleted will
+not at all should change the design. Give it a try to understand it better.
